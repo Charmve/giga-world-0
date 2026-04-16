@@ -48,7 +48,7 @@ git clone https://github.com/open-gigaai/giga-models.git
 cd giga-models
 pip3 install -e .
 
-git clone git@github.com:open-gigaai/giga-world-0.git
+git clone https://github.com/open-gigaai/giga-world-0.git
 ```
 
 ## 🚀 Quick Start
